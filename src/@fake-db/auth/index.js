@@ -1,5 +1,5 @@
 
 export const userData = [
-    {username: "iqbal", password: "demo123" },
-    {username: "rakib", password: "demo123" },
+    {username: "admin", password: "demo123" },
+    {username: "user", password: "demo123" },
   ];
